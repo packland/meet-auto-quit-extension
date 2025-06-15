@@ -4,5 +4,5 @@ Extensão para google chrome que sai do Google Meet se a reunião reduzir o quor
 Criado como trabalho final para o curso CS50. 
 
 ## CS50 Final project
-#### Video Demo: 
+#### Video Demo: https://youtu.be/_MUDpNNqNlg
 #### Description: Google Chrome extension that quits from a meet based on users settings abtou quorum. For example, quits if thr actual quorum is 50% of the maximum 
