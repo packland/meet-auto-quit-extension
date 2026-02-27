@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Google Meet Auto Quitting",
-  "version": "1.1",
+  "version": "1.1.1",
   "description": "Sai de uma reunião do Google Meet se a reunião reduzir o quorum.",
   "author": "Patrick Silva & Lucas Federicci",
   "icons": {
