@@ -36,7 +36,7 @@
 
     // Loop principal que executa a verificação a cada 1 segundo
     setInterval(() => {
-        membersfunction(document.querySelector('.uGOf1d'));
+        membersfunction(document.querySelector('.egzc7c'));
     }, 1000);
 
     // --- Início da criação da Interface de Usuário Flutuante ---
